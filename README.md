@@ -1,11 +1,12 @@
 # SmartContracts-for-StreetMaintenance
 
 ## Why
-- Local Street Maintenance one of the most visible indicators of local government performance
-- yet the least transparent and very inefficient allocation of public capital.
-- relies chiefly on people who complain into their phones
+- Local Street Maintenance one of the most visible indicators of local government performance.
+- ..yet the least transparent and very inefficient allocation of public capital.
+- relies chiefly on people who complain into their phones.
 - [nefarious and nepotistic](https://www.newsday.com/business/carlo-lizza-sons-paving-inc-got-100m-in-contracts-has-history-of-political-contributions-1.10293076)
-- also relies on a cottage industry of intermediateries who either perform "windshield surveys" (eyeballing streets) or over-engineered, military grade laser trucks.
+- ...also relies on a cottage industry of intermediateries who either perform "windshield surveys" (eyeballing streets) or over-engineered, military grade laser trucks.
+- We can do more with less.
 
 ## What
 - A decentralized method to allow streets to effectively repair themselves by leveraging a citywide ground truthed street data collection tied to smart contracts.
