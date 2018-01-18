@@ -31,4 +31,5 @@
 - [ICOing a town](http://town.cryptocracy.io/faq/)
 - [ICOing a town-more](https://forum.blockstack.org/t/crowd-funding-purchase-of-an-entire-town/847)
 - [SOUQ (Video)](https://www.youtube.com/watch?v=hmhyB3D9CXA)
+- [SOUQ App Walkthrough](https://youtu.be/exH5HG6Sld4)
 
